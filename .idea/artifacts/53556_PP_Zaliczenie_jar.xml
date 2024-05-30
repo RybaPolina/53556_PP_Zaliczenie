@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="53556_PP_Zaliczenie:jar">
+    <output-path>$PROJECT_DIR$/build</output-path>
+    <root id="archive" name="53556_PP_Zaliczenie.jar">
+      <element id="module-output" name="53556_PP_Zaliczenie" />
+    </root>
+  </artifact>
+</component>
